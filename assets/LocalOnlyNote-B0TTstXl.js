@@ -1,0 +1,1 @@
+import{s as e}from"./createLucideIcon-COVSuV-r.js";var t=e();function n(){return(0,t.jsx)(`p`,{className:`text-[11px] leading-relaxed text-muted-foreground`,children:`Saved on this phone. Finished workouts and check-ins also queue to the training sheet.`})}export{n as t};
