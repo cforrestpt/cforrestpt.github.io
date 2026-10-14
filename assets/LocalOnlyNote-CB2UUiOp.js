@@ -1,1 +1,0 @@
-import{s as e}from"./createLucideIcon-COVSuV-r.js";var t=e();function n(){return(0,t.jsx)(`p`,{className:`text-[11px] leading-relaxed text-muted-foreground`,children:`Saved on this phone only. Habit cloud sync does not include check-ins or workouts yet.`})}export{n as t};
