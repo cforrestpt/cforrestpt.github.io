@@ -1,0 +1,1 @@
+import{s as e}from"./createLucideIcon-COVSuV-r.js";import{t}from"./AppShell-DPv0OGKh.js";import{n}from"./index-BWqEwu-2.js";import{r}from"./Milestones-B5g243FY.js";var i=e();function a(){let{id:e}=n.useParams();return(0,i.jsx)(t,{syncBanner:!1,children:(0,i.jsx)(`div`,{className:`mx-auto max-w-lg px-4 pb-6 pt-4`,children:(0,i.jsx)(r,{id:e})})})}export{a as component};
