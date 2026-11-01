@@ -1,6 +1,6 @@
 /* ND-Dad OS static PWA. Scope is /. Navigations are network-first so a Pages
  * deploy shows up on the next open. Hashed assets can come from cache. */
-const CACHE = "nd-dad-os-pages-v1";
+const CACHE = "nd-dad-os-pages-v2";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(self.skipWaiting());
